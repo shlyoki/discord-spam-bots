@@ -3,3 +3,4 @@ selenium==3.8.1
 requests==2.21.0
 discum==1.1.0
 2captcha-python==1.0.3
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
